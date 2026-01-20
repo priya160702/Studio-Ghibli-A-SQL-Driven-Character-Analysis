@@ -18,7 +18,7 @@ Filtering & Conditional Logic: CASE WHEN, WHERE
 
 Joins & Subqueries: INNER JOIN, LEFT JOIN, correlated subqueries
 
-Advanced SQL:
+### Advanced SQL:
 
 Common Table Expressions (CTEs) for intermediate results
 
