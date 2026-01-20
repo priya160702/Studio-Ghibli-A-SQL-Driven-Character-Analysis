@@ -35,7 +35,7 @@ Average character age: ~11 years
 
 Gender distribution: 55% male, 44% female, revealing slight male dominance
 
-### Top Places of Residence
+#### Top Places of Residence
 
 Characters from Japan, Europe, and Wales surpass the average height
 
