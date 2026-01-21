@@ -1,4 +1,4 @@
-# Studio-Ghibli-A-SQL-Driven-Character-Analysis
+# Studio Ghibli A SQL Driven Character Analysis
 
 ## Studio Ghibli Character Analysis with SQL 
 
