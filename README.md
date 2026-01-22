@@ -2,7 +2,7 @@
 
 ## Studio Ghibli Character Analysis with SQL 
 
-Studio Ghibli films are renowned for their whimsical worlds, captivating storytelling, and unforgettable characters. From the gentle Totoro to the courageous Howl, these characters are more than animations—they embody emotions and narratives that resonate universally.
+Studio Ghibli films are renowned for their whimsical worlds, captivating storytelling, and unforgettable characters. From the gentle Totoro to the courageous Howl, these characters are more than animations. They embody emotions and narratives that resonate universally.
 
 In this project, I applied SQL-based data analysis to explore the Studio Ghibli universe, uncovering character attributes, relationships, and unique traits hidden in the data.
 
